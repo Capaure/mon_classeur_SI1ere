@@ -1,7 +1,7 @@
 # mon_classeur_SI1ere
 ## Sommaire
 
-- [Ma fiche](fiche.md)
+- [Ma fiche](Fiche.md)
 ### Et voici un titre de niveau 3
 Ceci est un paragraphe.
 Cette ligne s'affiche dans le même paragraphe à la suite de la première phrase sans retour à la ligne.  
