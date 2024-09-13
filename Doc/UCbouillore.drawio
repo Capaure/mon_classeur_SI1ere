@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="IS4Nt7BlIf8Nu_PPe-kS-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#FFCC99;" vertex="1" parent="1">
-          <mxGeometry x="3" y="46" width="987" height="764" as="geometry" />
+          <mxGeometry x="3" y="46" width="977" height="754" as="geometry" />
         </mxCell>
         <mxCell id="KXqC9toqH5b9I6hQeqLz-1" value="Bouillore ELECTRIQUE" style="shape=rect;html=1;verticalAlign=top;fontStyle=1;whiteSpace=wrap;align=center;fillColor=#3399FF;" parent="1" vertex="1">
           <mxGeometry x="115" y="110" width="620" height="640" as="geometry" />
