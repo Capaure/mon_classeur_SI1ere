@@ -22,7 +22,7 @@
         <mxCell id="LnlE2vB2DdziIzQnd_Bp-6" value="A&lt;span style=&quot;background-color: initial;&quot;&gt;cquérir&lt;/span&gt;" style="html=1;whiteSpace=wrap;fillColor=#FFD966;" parent="1" vertex="1">
           <mxGeometry x="-110" y="80" width="260" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="LnlE2vB2DdziIzQnd_Bp-7" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" parent="1" vertex="1">
+        <mxCell id="LnlE2vB2DdziIzQnd_Bp-7" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="150" y="155" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LnlE2vB2DdziIzQnd_Bp-9" value="Traiter" style="html=1;whiteSpace=wrap;fillColor=#FFD966;" parent="1" vertex="1">
