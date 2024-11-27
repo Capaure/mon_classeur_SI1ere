@@ -15,5 +15,5 @@
 
 # Ressources Supplémentaires
 
-- **[Site du professeur Eric ECM Morlaix (1SI 2024-2025)](https://ericecmorlaix.github.io/1SI_2024-2025/#__tabbed_7_1)** : Consulte ce site pour des informations complémentaires sur le programme et les ressources de la spécialité SI pour l'année scolaire 2024-2025.
+- **[Site du professeur Eric ECM Morlaix (1SI 2024-2025)](https://ericecmorlaix.github.io/1SI_2024-2025/#__tabbed_7_1)** : 
 
