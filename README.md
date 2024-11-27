@@ -15,5 +15,5 @@
 
 # Ressources Supplémentaires
 
-- **[Site du professeur Eric ECM Morlaix (1SI 2024-2025)](https://ericecmorlaix.github.io/1SI_2024-2025/#__tabbed_7_1)** : 
+- **[Site du professeur Eric MADEC Morlaix (1SI 2024-2025)](https://ericecmorlaix.github.io/1SI_2024-2025/#__tabbed_7_1)** : 
 
