@@ -3,7 +3,7 @@
 
 # Suivi des Cours et Projets - 2024-2025
 
-- **[Suivre l'avancée de l'année](./2024-2025.md)** : Consulte ce fichier pour suivre l'avancée du programme et des activités de l'année scolaire 2024-2025.
+- **[Suivre l'avancée de l'année](./2024-2025.md)** : L'avancée du programme et des activités de l'année scolaire 2024-2025.
 
 ## Dossiers et Ressources
 - **[Analyse Fonctionnelle (AF)](https://github.com/Capaure/mon_classeur_SI1ere/tree/main/Documents%20/%20Activit%C3%A9s%20de%20cours/AF)** : Documents relatifs à l'analyse fonctionnelle.
