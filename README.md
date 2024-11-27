@@ -11,3 +11,9 @@
 - **[Chaîne d'information d'un système](https://github.com/Capaure/mon_classeur_SI1ere/tree/main/Documents%20/%20Activit%C3%A9s%20de%20cours/Chaine%20d'information%20d'un%20syst%C3%A8me)** : Accède aux documents concernant la chaîne d'information dans un système.
 - **[Évaluation](https://github.com/Capaure/mon_classeur_SI1ere/tree/main/Documents%20/%20Activit%C3%A9s%20de%20cours/Evaluation)** : Consulte les supports pour les évaluations liées aux cours de SI.
 - **[QuickPi](https://github.com/Capaure/mon_classeur_SI1ere/tree/main/Documents%20/%20Activit%C3%A9s%20de%20cours/QuickPi)** : Suivi et ressources sur la programmation des objets connectés avec la carte QuickPi.
+
+
+# Ressources Supplémentaires
+
+- **[Site du professeur Eric ECM Morlaix (1SI 2024-2025)](https://ericecmorlaix.github.io/1SI_2024-2025/#__tabbed_7_1)** : Consulte ce site pour des informations complémentaires sur le programme et les ressources de la spécialité SI pour l'année scolaire 2024-2025.
+
