@@ -1,4 +1,4 @@
-Projet : Modéliser une rue
+# Mini-projet : Modéliser ma rue
 
 ## Objectif du projet
 L'objectif est de créer une maquette 3D simplifiée, représentant l'organisation architecturale d'une rue, tout en respectant certaines contraintes urbanistiques. La modélisation utilise des briques LEGO Classic, mais pour étendre les possibilités de construction, le logiciel **OnShape** sera exploité.
@@ -66,4 +66,18 @@ Le projet est organisé selon les principes de la méthode agile :
 - **Livrable attendu** : fichier présentant l'assemblage de deux briques LEGO.
 
 ### Sprint 1 : Modélisation d’un immeuble
-- **Tâ
+- **Tâches** :
+  1. Concevoir les éléments modulaires nécessaires :
+     - Toit
+     - Fenêtres
+     - Portes
+     - Façade
+  2. Réaliser un assemblage représentant un immeuble complet.
+  3. Valider que les dimensions et l’agencement correspondent aux contraintes du projet.
+  4. Partager votre réalisation avec le groupe pour intégration dans la maquette globale.
+- **Livrable attendu** : modèle numérique 3D d’un immeuble avec toutes ses fonctionnalités.
+
+---
+
+## Conclusion
+Ce projet "Modéliser ma rue" permet de découvrir les bases de la modélisation 3D, d’explorer la méthode agile, et de travailler en collaboration. La rigueur technique et l’adaptabilité sont essentielles pour répondre aux attentes du Product Owner et livrer une maquette fidèle à l’organisation architecturale de la rue.
