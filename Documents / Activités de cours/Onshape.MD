@@ -1,4 +1,4 @@
-# Mini-projet : Modéliser ma rue
+# Projet : Modéliser une rue
 
 ## Objectif du projet
 L'objectif est de créer une maquette 3D simplifiée, représentant l'organisation architecturale d'une rue, tout en respectant certaines contraintes urbanistiques. La modélisation utilise des briques LEGO Classic, mais pour étendre les possibilités de construction, le logiciel **OnShape** sera exploité.
